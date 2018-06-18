@@ -1,0 +1,5 @@
+# basic.txt
+Hi
+Hello
+how are you?
+I'm fine, thankx for asking
