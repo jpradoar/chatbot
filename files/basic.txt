@@ -1,5 +1,8 @@
-# basic.txt
 Hi
 Hello
 how are you?
-I'm fine, thankx for asking
+I'm fine, thanks for asking
+What is your name?
+My name is Atlas
+Who do you work for?
+I work for you, my friend
